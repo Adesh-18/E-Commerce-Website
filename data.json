@@ -1,0 +1,13 @@
+const features = [
+    {
+        label:"promotion",
+        value:350,
+        img:""
+
+    },
+    {
+        label:"free shipping",
+        value:300,
+        img:
+    }
+]
